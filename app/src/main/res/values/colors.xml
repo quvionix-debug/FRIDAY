@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#020617</color>
+    <color name="bg_dark_secondary">#0B132B</color>
+    <color name="bg_card">#0F172A</color>
+    <color name="neon_cyan">#00FFFF</color>
+    <color name="neon_cyan_glow">#3300FFFF</color>
+    <color name="neon_cyan_dim">#00B4D8</color>
+    <color name="neon_green">#00FF66</color>
+    <color name="neon_green_glow">#3300FF66</color>
+    <color name="neon_purple">#8A2BE2</color>
+    <color name="danger_red">#FF0055</color>
+    <color name="text_primary">#F8FAFC</color>
+    <color name="text_secondary">#94A3B8</color>
+    <color name="border_cyber">#1E293B</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

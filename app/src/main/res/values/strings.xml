@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">FRIDAY</string>
+    <string name="title_friday">F.R.I.D.A.Y.</string>
+    <string name="subtitle_jarvis">JARVIS NEURAL CORE // MARK VII</string>
+    <string name="authorized_boss">AUTHORIZED: BOSS ANAND</string>
+    <string name="status_standby">STANDBY</string>
+    <string name="status_listening">LISTENING</string>
+    <string name="status_speaking">SPEAKING</string>
+    <string name="status_processing">PROCESSING</string>
+    <string name="mic_icon_desc">Microphone Icon</string>
+    <string name="mic_active">MIC ACTIVE</string>
+    <string name="status_continuous_listening">STATUS: CONTINUOUS BACKGROUND LISTENING</string>
+    <string name="wake_hint">Wake Words: \'Hello FRIDAY\' | \'Hello AIRA\' (Sleep: 60s idle)</string>
+    <string name="telemetry_log_header">SYSTEM TELEMETRY &amp; CONVERSATION LOG</string>
+    <string name="clear_logs">CLEAR</string>
+    <string name="initial_telemetry">[SYSTEM] Neural link initialized.\n[FRIDAY] Systems nominal. Standing by for Boss Anand&#8230;\n</string>
+    <string name="cmd_simulator_header">RAPID VOICE COMMAND SIMULATOR:</string>
+    <string name="cmd_wake_up">Wake Up</string>
+    <string name="cmd_unlock">PIN 226263</string>
+    <string name="cmd_whatsapp">WhatsApp</string>
+    <string name="cmd_youtube">YouTube</string>
+    <string name="service_notification_channel_name">FRIDAY Assistant Service</string>
+    <string name="service_notification_title">FRIDAY Neural Core</string>
+    <string name="service_notification_desc">Active &amp; standing by for Boss Anand</string>
+    <string name="accessibility_service_desc">FRIDAY AI Assistant Service for automated screen unlock, PIN entry, gesture control, and background task execution for Boss Anand.</string>
+    <string name="btn_permissions_setup">SETUP BG PERMISSIONS</string>
+    <string name="permission_banner_text">GRANT SYSTEM PERMISSIONS (PIN UNLOCK &amp; BG)</string>
+    <string name="permissions_granted_text">FULL BG AUTOMATION ACCESS GRANTED</string>
+    <string name="status_executing">EXECUTING: %1$s</string>
+</resources>
